@@ -15,9 +15,9 @@ public class Main {
         System.out.println("Данные ФИО сотрудника для заполнения отчета — " + fullNameForReport);
 
     //Задание 3
-        String fullName3 = "Иванов Семён Семёнович";
-        fullName3 = fullName3.replace("ё","е" );
-        System.out.println("Данные ФИО сотрудника — " + fullName3);
+        String fullName1 = "Иванов Семён Семёнович";
+        fullName1 = fullName1.replace("ё","е" );
+        System.out.println("Данные ФИО сотрудника — " + fullName1);
 
 
     }
